@@ -1,0 +1,6 @@
+console.log("MENU")
+console.log("1. Trứng rán")
+console.log("2. Trứng luộc")
+console.log("3. Cá rán")
+console.log("4. Gà")
+console.log("5. Thịt")
