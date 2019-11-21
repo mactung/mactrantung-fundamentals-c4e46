@@ -1,0 +1,15 @@
+#test-double-click{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+
+}
+.button{
+    display: inline-block;
+    padding: 10px 0px 10px 10px;;
+    width: 35px;
+    margin: 3px;
+    background-color: #F2FCCF;
+    border: 1px solid #88C918;
+    
+}
